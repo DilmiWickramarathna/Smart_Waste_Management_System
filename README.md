@@ -1,5 +1,4 @@
 **Problem Statement**
-
 According to Stockholm Vatten och Avfall, garbage collection in Stockholm operates on weekly or biweekly schedules with predefined routes. However, static schedules fail to adapt to real-time waste levels, leading to overflowing bins, unsanitary conditions, and public dissatisfaction. Inefficient routes increase fuel costs, operational expenses, and carbon emissions. A dynamic, data-driven approach is needed to optimize waste collection and address these challenges effectively.
 
 **Proposed Solutions**
