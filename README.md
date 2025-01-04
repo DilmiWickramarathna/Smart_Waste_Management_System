@@ -4,7 +4,7 @@ According to Stockholm Vatten och Avfall, garbage collection in Stockholm operat
 
 **Proposed Solutions**
 
-The proposed solution involves using IoT sensors to hourly monitor waste levels, integrating cloud data storage and processing, utilizing route optimization algorithms to dynamically adjust collection schedules based on real-time waste level conditions, and applying data analytics and improve waste management policies for more efficient operations and reduced environmental impact​
+The proposed solution involves using IoT sensors to hourly monitor waste levels, integrating cloud data storage and processing, utilizing route optimization algorithms to dynamically adjust collection schedules based on real-time waste level conditions, and applying data analytics and improve waste management policies for more efficient operations and reduced environmental impact​.
 
 **Target Audience**
 
